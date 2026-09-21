@@ -1,0 +1,25 @@
+body {
+  background: #b7fcfc;
+}
+
+.bg-bar {
+  background: #5af8f8;
+}
+
+.app-card {
+  background: #d9fff6;
+  border-radius: 20px;
+}
+
+.bg-pill {
+  background: #e4fffc;
+}
+
+.app-pill {
+  background: #9be0e6;
+  border-radius: 16px;
+}
+
+.app-pill-title {
+  background: #9be0e6;
+}
